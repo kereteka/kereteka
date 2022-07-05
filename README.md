@@ -1,4 +1,4 @@
-Specializing web development mostly focused on ReactJS.
+Specializing in web development mostly focused on ReactJS.
 
 <!---
 kereteka/kereteka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
